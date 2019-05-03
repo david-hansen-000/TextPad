@@ -1,4 +1,4 @@
 # TextPad
 Android TextPad for writing notes and saving/reading simple password encrypted notes.
 
-![pic of author](/me.jpg | width=100)
+<img src="/me.jpg" data-canonical-src="/me.jpg" alt-text="picture of author" width="100">
